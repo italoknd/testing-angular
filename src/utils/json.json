@@ -1,0 +1,47 @@
+[
+  {
+    "nome": "Italo Pedroza",
+    "idade": 22,
+    "cargo": "Web Developer"
+  },
+  {
+    "nome": "Daniel Rodrigues",
+    "idade": 23,
+    "cargo": "Web Developer"
+  },
+  {
+    "nome": "Jairo Abreu",
+    "idade": 23,
+    "cargo": "Web Developer"
+  },
+  {
+    "nome": "Eduardo Araujo",
+    "idade": 30,
+    "cargo": "Web Developer"
+  },
+  {
+    "nome": "Robson Freitas",
+    "idade": 20,
+    "cargo": "Coordenador"
+  },
+  {
+    "nome": "Rebeca Lizandra",
+    "idade": 22,
+    "cargo": "Scrum Master"
+  },
+  {
+    "nome": "Hugo Lima",
+    "idade": 28,
+    "cargo": "Diretor"
+  },
+  {
+    "nome": "Adriano Neves",
+    "idade": 30,
+    "cargo": "Mobile"
+  },
+  {
+    "nome": "Mateus Nery",
+    "idade": 25,
+    "cargo": "Analista"
+  }
+]
